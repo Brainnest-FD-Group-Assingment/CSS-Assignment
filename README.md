@@ -1,6 +1,6 @@
 # CSS-Assignment
  
-Link to the website:
+Link to the website: https://brainnest-fd-group-assingment.github.io/CSS-Assignment/
 
 
 ## Credits
