@@ -88,6 +88,12 @@
   right: 0;
 }
 
+.header-btn-cta:link,
+.header-btn-cta:visited {
+  text-decoration: none;
+  color: white;
+}
+
 /* -------------------------------------------------------------- INFO-SECTION-CSS-STYLES -------------------------------------------------------------- */ 
 
 .info-section {
